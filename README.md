@@ -10,7 +10,7 @@ Customer segmentation is a powerful tool for businesses looking to improve their
 
 ## Project Overview
 
-This project focuses on using machine learning techniques, specifically clustering algorithms, to perform customer segmentation. The dataset used typically contains various customer attributes such as demographics, purchase history, and engagement metrics. By applying clustering algorithms such as K-means, DBSCAN, or hierarchical clustering, we aim to identify distinct customer segments within the dataset.
+This project focuses on using machine learning techniques, specifically clustering algorithms, to perform customer segmentation. The dataset used typically contains various customer attributes such as demographics, purchase history, and engagement metrics. By applying clustering algorithm such as K-means, DBSCAN, or hierarchical clustering, we aim to identify distinct customer segments within the dataset.
 
 ## Getting Started
 
